@@ -1,0 +1,364 @@
+[
+  {
+      "cnae": [
+        {
+          "codigo": "6202-3/00",
+          "descricao": "Desenvolvimento de programas de computador customizáveis"
+        }
+      ],
+      "cnpj": "12.345.678/0001-90",
+      "email": "contato@digisol.com.br",
+      "fantasia": "DigiSol",
+      "fax": [
+        {
+          "numero": "(21) 8765-4321",
+          "tipo": "Comercial"
+        }
+      ],
+      "inicioAtividade": "01/01/2020",
+      "matrizEndereco": [
+        {
+          "bairro": "Centro",
+          "cep": "20031-050",
+          "cidade": "Rio de Janeiro",
+          "complemento": "Sala 5",
+          "estado": "RJ",
+          "logradouro": "Rua das Flores",
+          "numero": "300"
+        }
+      ],
+      "matrizfilial": [
+        {
+          "dataRegistro": "15/01/2020",
+          "numeroRegistro": "98765432101234",
+          "orgaoCompetente": "Junta Comercial do Estado do Rio de Janeiro"
+        }
+      ],
+      "naturezaJuridica": [
+        {
+          "codigo": "2062",
+          "descricao": "Sociedade Empresária Limitada"
+        }
+      ],
+      "porte": [
+        {
+          "descricao": "Pequena Empresa"
+        }
+      ],
+      "razao": "Digital Solutions Ltda.",
+      "responsavel": "Ana Costa",
+      "risco": [
+        {
+          "descricao": "Baixa probabilidade de inadimplência futura",
+          "nivel": "Baixo"
+        }
+      ],
+      "simei": [
+        {
+          "adherence": false,
+          "endDate": null,
+          "startDate": null
+        }
+      ],
+      "simplesNacional": [
+        {
+          "adherence": true,
+          "endDate": null,
+          "startDate": "01/02/2020"
+        }
+      ],
+      "situacao": {
+        "dataSituacao": "01/01/2020",
+        "motivo": "Situação Regular",
+        "status": "Ativa"
+      },
+      "socios": [
+        {
+          "cpf": "234.567.890-12",
+          "dataEntrada": "01/01/2020",
+          "nome": "Carlos Almeida",
+          "tipo": "Sócio Administrador"
+        }
+      ],
+      "status": true,
+      "telefones": [
+        {
+          "numero": "(21) 1234-5678",
+          "tipo": "Comercial"
+        }
+      ]
+    },
+    {
+      "cnae": [
+        {
+          "codigo": "6203-1/00",
+          "descricao": "Desenvolvimento de softwares e aplicativos para empresas"
+        }
+      ],
+      "cnpj": "44.555.666/0001-77",
+      "email": "vendas@inovasoft.com.br",
+      "fantasia": "InovaSoft",
+      "fax": [
+        {
+          "numero": "(19) 6655-4433",
+          "tipo": "Comercial"
+        }
+      ],
+      "inicioAtividade": "20/05/2018",
+      "matrizEndereco": [
+        {
+          "bairro": "Jardins",
+          "cep": "13060-320",
+          "cidade": "Campinas",
+          "complemento": "2º Andar",
+          "estado": "SP",
+          "logradouro": "Rua dos Jacarandás",
+          "numero": "450"
+        }
+      ],
+      "matrizfilial": [
+        {
+          "dataRegistro": "25/05/2018",
+          "numeroRegistro": "78901234567890",
+          "orgaoCompetente": "Junta Comercial do Estado de São Paulo"
+        }
+      ],
+      "naturezaJuridica": [
+        {
+          "codigo": "2305",
+          "descricao": "Empresa Individual de Responsabilidade Limitada (EIRELI)"
+        }
+      ],
+      "porte": [
+        {
+          "descricao": "Média Empresa"
+        }
+      ],
+      "razao": "Inova Comércio de Software EIRELI",
+      "responsavel": "Lucas Matos",
+      "risco": [
+        {
+          "descricao": "Probabilidade moderada de inadimplência futura",
+          "nivel": "Médio"
+        }
+      ],
+      "simei": [
+        {
+          "adherence": false,
+          "endDate": null,
+          "startDate": null
+        }
+      ],
+      "simplesNacional": [
+        {
+          "adherence": true,
+          "endDate": null,
+          "startDate": "01/06/2018"
+        }
+      ],
+      "situacao": {
+        "dataSituacao": "20/05/2018",
+        "motivo": "Situação Regular",
+        "status": "Ativa"
+      },
+      "socios": [
+        {
+          "cpf": "567.890.123-45",
+          "dataEntrada": "20/05/2018",
+          "nome": "Fernanda Souza",
+          "tipo": "Proprietária"
+        }
+      ],
+      "status": true,
+      "telefones": [
+        {
+          "numero": "(19) 3344-5566",
+          "tipo": "Comercial"
+        }
+      ]
+    },
+    {
+      "cnae": [
+        {
+          "codigo": "6311-9/00",
+          "descricao": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet"
+        }
+      ],
+      "cnpj": "55.666.777/0001-88",
+      "email": "info@futuretech.com.br",
+      "fantasia": "FutureTech",
+      "fax": [
+        {
+          "numero": "(21) 5432-9876",
+          "tipo": "Comercial"
+        }
+      ],
+      "inicioAtividade": "10/10/2017",
+      "matrizEndereco": [
+        {
+          "bairro": "Barra da Tijuca",
+          "cep": "22775-000",
+          "cidade": "Rio de Janeiro",
+          "complemento": "Sala 101",
+          "estado": "RJ",
+          "logradouro": "Avenida das Américas",
+          "numero": "2000"
+        }
+      ],
+      "matrizfilial": [
+        {
+          "dataRegistro": "15/10/2017",
+          "numeroRegistro": "12309845671234",
+          "orgaoCompetente": "Junta Comercial do Estado do Rio de Janeiro"
+        }
+      ],
+      "naturezaJuridica": [
+        {
+          "codigo": "2062",
+          "descricao": "Sociedade Empresária Limitada"
+        }
+      ],
+      "porte": [
+        {
+          "descricao": "Grande Empresa"
+        }
+      ],
+      "razao": "Future Tech Corp.",
+      "responsavel": "Mariana Nunes",
+      "risco": [
+        {
+          "descricao": "Baixa probabilidade de inadimplência futura",
+          "nivel": "Baixo"
+        }
+      ],
+      "simei": [
+        {
+          "adherence": false,
+          "endDate": null,
+          "startDate": null
+        }
+      ],
+      "simplesNacional": [
+        {
+          "adherence": true,
+          "endDate": null,
+          "startDate": "01/11/2017"
+        }
+      ],
+      "situacao": {
+        "dataSituacao": "10/10/2017",
+        "motivo": "Situação Regular",
+        "status": "Ativa"
+      },
+      "socios": [
+        {
+          "cpf": "345.678.901-23",
+          "dataEntrada": "10/10/2017",
+          "nome": "Bruno Lima",
+          "tipo": "Sócio Administrador"
+        },
+        {
+          "cpf": "456.789.012-34",
+          "dataEntrada": "10/10/2017",
+          "nome": "Ana Paula Rocha",
+          "tipo": "Sócia"
+        }
+      ],
+      "status": true,
+      "telefones": [
+        {
+          "numero": "(21) 9876-5432",
+          "tipo": "Comercial"
+        }
+      ]
+    },
+    {
+      "cnae": [
+        {
+          "codigo": "6204-0/00",
+          "descricao": "Consultoria em tecnologia da informação"
+        }
+      ],
+      "cnpj": "66.777.888/0001-99",
+      "email": "support@globaltech.com.br",
+      "fantasia": "GlobalTech",
+      "fax": [
+        {
+          "numero": "(31) 4321-3211",
+          "tipo": "Comercial"
+        }
+      ],
+      "inicioAtividade": "05/06/2019",
+      "matrizEndereco": [
+        {
+          "bairro": "Centro",
+          "cep": "30100-010",
+          "cidade": "Belo Horizonte",
+          "complemento": "Térreo",
+          "estado": "MG",
+          "logradouro": "Rua do Comércio",
+          "numero": "150"
+        }
+      ],
+      "matrizfilial": [
+        {
+          "dataRegistro": "10/06/2019",
+          "numeroRegistro": "90123456781234",
+          "orgaoCompetente": "Junta Comercial do Estado de Minas Gerais"
+        }
+      ],
+      "naturezaJuridica": [
+        {
+          "codigo": "2062",
+          "descricao": "Sociedade Empresária Limitada"
+        }
+      ],
+      "porte": [
+        {
+          "descricao": "Média Empresa"
+        }
+      ],
+      "razao": "Global Tech Partners Ltda.",
+      "responsavel": "Ricardo Almeida",
+      "risco": [
+        {
+          "descricao": "Probabilidade moderada de inadimplência futura",
+          "nivel": "Médio"
+        }
+      ],
+      "simei": [
+        {
+          "adherence": false,
+          "endDate": null,
+          "startDate": null
+        }
+      ],
+      "simplesNacional": [
+        {
+          "adherence": true,
+          "endDate": null,
+          "startDate": "01/07/2019"
+        }
+      ],
+      "situacao": {
+        "dataSituacao": "05/06/2019",
+        "motivo": "Situação Regular",
+        "status": "Ativa"
+      },
+      "socios": [
+        {
+          "cpf": "678.901.234-56",
+          "dataEntrada": "05/06/2019",
+          "nome": "Eduardo Pereira",
+          "tipo": "Sócio Administrador"
+        }
+      ],
+      "status": true,
+      "telefones": [
+        {
+          "numero": "(31) 3211-4321",
+          "tipo": "Comercial"
+        }
+      ]
+    }
+  ]
