@@ -1,5 +1,23 @@
+
+
+/**
+ * URL of the API.
+ * OBS , SE REMOVER O REDIRECIONAMENTO PELO HEROKU O REPLIT NAO LIBERA ACESSO A API 
+ * @constant
+ * @type {string}
+ */
 const API_URL = 'https://cors-anywhere.herokuapp.com/https://c9df0f37-f69f-4b6d-8158-2958f9b5b884-00-1wdt1mzj7jyv1.worf.replit.dev/api/company';
 
+
+/**
+ * Fetch companies from API.
+ * 
+ * OBS , SE REMOVER OS HEADERS NAO FUNCIONA KKKKkkkkkkkk 
+ *
+ * @returns {Promise<Object[]>} - List of companies.
+ *
+ * @throws {Error} - If there is an error with the request.
+ */
 async function fetchCompanies() {
     try {
         const response = await fetch(API_URL, {
@@ -32,6 +50,11 @@ async function fetchCompanies() {
     }
 }
 
+/**
+ * Cria um elemento HTML para representar uma empresa.
+ * @param {object} company Empresa a ser representada.
+ * @returns {Element} O elemento HTML criado.
+ */
 function createCompanyElement(company) {
     const companyElement = document.createElement('div');
     companyElement.className = 'company';
@@ -68,6 +91,10 @@ function createCompanyElement(company) {
     return companyElement;
 }
 
+/**
+ * Exibe a lista de empresas.
+ * @throws {Error} Se ocorrer um erro ao carregar a lista de empresas.
+ */
 async function displayCompanies() {
     const container = document.getElementById('companies-container');
     container.innerHTML = '<p>Carregando dados...</p>';
@@ -90,8 +117,11 @@ async function displayCompanies() {
     }
 }
 
+/**
+ * Adiciona listeners de eventos aos elementos do DOM quando o conteudo HTML for  carregado por completo.
+ */
 document.addEventListener('DOMContentLoaded', (e) => {
-e.preventDefault();
+    e.preventDefault();
     const searchButton = document.getElementById('search-button');
     searchButton.addEventListener('click', displayCompanies);
 });
