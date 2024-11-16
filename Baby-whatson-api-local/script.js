@@ -3,10 +3,10 @@
  * @type {string[]}
  */
 const endpoints = [
-    'http://localhost:3000/0',
-    'http://localhost:3000/1',
-    'http://localhost:3000/2',
-    'http://localhost:3000/3'
+    'http://localhost:4444/0',
+    'http://localhost:4444/1',
+    'http://localhost:4444/2',
+    'http://localhost:4444/3'
 ];
 
 /**
